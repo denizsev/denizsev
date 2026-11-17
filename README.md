@@ -17,15 +17,30 @@ I write Java for university and JavaScript for my own projects, mostly small web
 
 | Project | What it is | Built with |
 |---|---|---|
-| [Ovid Calculator](https://github.com/denizsev/ovid-calculator) · [live](https://denizsev.github.io/ovid-calculator/) | Scientific calculator with live results, exact fractions, unit-aware maths, offline support and a geometry mode | JavaScript, Service Worker, i18n |
-| [Tasks](https://github.com/denizsev/toDoAppMastering) · [live](https://denizsev.github.io/toDoAppMastering/) | Touch-first to-do app: no syntax, swipe to complete or snooze, data stays in the browser | HTML, CSS, JavaScript |
-| [Etch-a-Sketch](https://github.com/denizsev/Etch-a-Sketch) · [live](https://denizsev.github.io/Etch-a-Sketch/) | Drawing grid generated with the DOM | JavaScript |
-| [Rock Paper Scissors](https://github.com/denizsev/rock_paper_scissors) · [live](https://denizsev.github.io/rock_paper_scissors/) | Browser game against the computer | JavaScript |
+| [Ovid Calculator](https://github.com/denizsev/ovid-calculator) · [live](https://denizsev.github.io/ovid-calculator/)<br>![last commit](https://img.shields.io/github/last-commit/denizsev/ovid-calculator?style=flat-square&label=updated) | Scientific calculator with live results, exact fractions, unit-aware maths, offline support and a geometry mode | JavaScript, Service Worker, i18n |
+| [Tasks](https://github.com/denizsev/toDoAppMastering) · [live](https://denizsev.github.io/toDoAppMastering/)<br>![last commit](https://img.shields.io/github/last-commit/denizsev/toDoAppMastering?style=flat-square&label=updated) | Touch-first to-do app: no syntax, swipe to complete or snooze, data stays in the browser | HTML, CSS, JavaScript |
+| [Etch-a-Sketch](https://github.com/denizsev/Etch-a-Sketch) · [live](https://denizsev.github.io/Etch-a-Sketch/)<br>![last commit](https://img.shields.io/github/last-commit/denizsev/Etch-a-Sketch?style=flat-square&label=updated) | Drawing grid generated with the DOM | JavaScript |
+| [Rock Paper Scissors](https://github.com/denizsev/rock_paper_scissors) · [live](https://denizsev.github.io/rock_paper_scissors/)<br>![last commit](https://img.shields.io/github/last-commit/denizsev/rock_paper_scissors?style=flat-square&label=updated) | Browser game against the computer | JavaScript |
 
 ### Tools
 
 [![Skills](https://skillicons.dev/icons?i=java,js,html,css,python,git,supabase,vscode)](https://skillicons.dev)
 
-### Activity
+### Recently
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denizsev&theme=github-compact&hide_border=true&area=true)
+<!-- RECENTLY:START -->
+- **[ovid-calculator](https://github.com/denizsev/ovid-calculator)**: [Stop the deploy workflow firing on the working branch (#6)](https://github.com/denizsev/ovid-calculator/commit/1a816673258d4499e2b423313cc5ef2144e80976) · 2026-08-13
+- **[toDoAppMastering](https://github.com/denizsev/toDoAppMastering)**: [Add files via upload](https://github.com/denizsev/toDoAppMastering/commit/e1757094219d6568a48419f173422a8205123ddd) · 2026-08-09
+- **[Etch-a-Sketch](https://github.com/denizsev/Etch-a-Sketch)**: [finished the project](https://github.com/denizsev/Etch-a-Sketch/commit/a28ccf956f1709cbda0938bc70e6da3b1476f391) · 2026-06-11
+- **[rock_paper_scissors](https://github.com/denizsev/rock_paper_scissors)**: [add a new 3 buttons](https://github.com/denizsev/rock_paper_scissors/commit/900484ed4c4085dff1386d8386e670c40e371915) · 2026-05-28
+- **[basic-shopping-card](https://github.com/denizsev/basic-shopping-card)**: [Finish my shopping cart functionally and improve cart logic](https://github.com/denizsev/basic-shopping-card/commit/1ff4d630c8d5c278afb1118fc33b561e2bbec7f6) · 2026-05-25
+<!-- RECENTLY:END -->
+
+<sub>Updated daily by a GitHub Action in this repo.</sub>
+
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denizsev/denizsev/output/snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/denizsev/denizsev/output/snake.svg">
+</picture>
