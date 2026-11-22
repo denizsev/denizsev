@@ -29,8 +29,8 @@ I write Java for university and JavaScript for my own projects, mostly small web
 ### Recently
 
 <!-- RECENTLY:START -->
-- **[ovid-calculator](https://github.com/denizsev/ovid-calculator)**: [Stop the deploy workflow firing on the working branch (#6)](https://github.com/denizsev/ovid-calculator/commit/1a816673258d4499e2b423313cc5ef2144e80976) · 2026-08-13
-- **[toDoAppMastering](https://github.com/denizsev/toDoAppMastering)**: [Add files via upload](https://github.com/denizsev/toDoAppMastering/commit/e1757094219d6568a48419f173422a8205123ddd) · 2026-08-09
+- **[ovid-calculator](https://github.com/denizsev/ovid-calculator)**: [Add English README with features, tech stack and live demo link](https://github.com/denizsev/ovid-calculator/commit/60f8f72e2934ae912700e4100abe94e64383d5eb) · 2026-11-21
+- **[toDoAppMastering](https://github.com/denizsev/toDoAppMastering)**: [Add English README with features, tech stack and live demo link](https://github.com/denizsev/toDoAppMastering/commit/ed71b111bf788977ee54ab84d4103c25f42b6b6e) · 2026-11-21
 - **[Etch-a-Sketch](https://github.com/denizsev/Etch-a-Sketch)**: [finished the project](https://github.com/denizsev/Etch-a-Sketch/commit/a28ccf956f1709cbda0938bc70e6da3b1476f391) · 2026-06-11
 - **[rock_paper_scissors](https://github.com/denizsev/rock_paper_scissors)**: [add a new 3 buttons](https://github.com/denizsev/rock_paper_scissors/commit/900484ed4c4085dff1386d8386e670c40e371915) · 2026-05-28
 - **[basic-shopping-card](https://github.com/denizsev/basic-shopping-card)**: [Finish my shopping cart functionally and improve cart logic](https://github.com/denizsev/basic-shopping-card/commit/1ff4d630c8d5c278afb1118fc33b561e2bbec7f6) · 2026-05-25
