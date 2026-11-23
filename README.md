@@ -29,7 +29,7 @@ I write Java for university and JavaScript for my own projects, mostly small web
 ### Recently
 
 <!-- RECENTLY:START -->
-- **[ovid-calculator](https://github.com/denizsev/ovid-calculator)**: [Add English README with features, tech stack and live demo link](https://github.com/denizsev/ovid-calculator/commit/60f8f72e2934ae912700e4100abe94e64383d5eb) · 2026-11-21
+- **[ovid-calculator](https://github.com/denizsev/ovid-calculator)**: [Add English README with features, tech stack and live demo link](https://github.com/denizsev/ovid-calculator/commit/caba34e59b2f156065db8f5b2ed674601bcca938) · 2026-11-21
 - **[toDoAppMastering](https://github.com/denizsev/toDoAppMastering)**: [Add English README with features, tech stack and live demo link](https://github.com/denizsev/toDoAppMastering/commit/ed71b111bf788977ee54ab84d4103c25f42b6b6e) · 2026-11-21
 - **[Etch-a-Sketch](https://github.com/denizsev/Etch-a-Sketch)**: [finished the project](https://github.com/denizsev/Etch-a-Sketch/commit/a28ccf956f1709cbda0938bc70e6da3b1476f391) · 2026-06-11
 - **[rock_paper_scissors](https://github.com/denizsev/rock_paper_scissors)**: [add a new 3 buttons](https://github.com/denizsev/rock_paper_scissors/commit/900484ed4c4085dff1386d8386e670c40e371915) · 2026-05-28
