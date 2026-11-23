@@ -5,13 +5,19 @@ I write Java for university and JavaScript for my own projects, mostly small web
 
 ![Uni Bremen](https://img.shields.io/badge/Uni_Bremen-Informatik_B.Sc.-005CA9?style=flat-square)
 ![Bremen](https://img.shields.io/badge/based_in-Bremen%2C_DE-24292f?style=flat-square)
+[![Website](https://img.shields.io/badge/website-denizsev.github.io-1d3a6e?style=flat-square)](https://denizsev.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deniz_Sevinc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-sevinc-6b1270387)
 ![Open to](https://img.shields.io/badge/open_to-Werkstudent_%C2%B7_part--time_%C2%B7_full--time-2ea44f?style=flat-square)
 
 ### Right now
 
 - **Ikinci Beyin** — a study app for students (PWA, Supabase). Cards, tasks and team spaces in one place. Private beta, code not public yet.
-- **University** — Programmiergrundlagen (Java), Mathematik 1, Theoretical CS & AI.
+- **University** — Programmiergrundlagen (Java), Mathematik 1, KI: Transformer der Informatik.
 - **Ovid Calculator** — next on the roadmap: more unit-aware functions.
+
+### Languages
+
+Turkish (native) · German (C1) · English (B2)
 
 ### Projects
 
@@ -29,11 +35,11 @@ I write Java for university and JavaScript for my own projects, mostly small web
 ### Recently
 
 <!-- RECENTLY:START -->
-- **[ovid-calculator](https://github.com/denizsev/ovid-calculator)**: [Add English README with features, tech stack and live demo link](https://github.com/denizsev/ovid-calculator/commit/caba34e59b2f156065db8f5b2ed674601bcca938) · 2026-11-21
-- **[toDoAppMastering](https://github.com/denizsev/toDoAppMastering)**: [Add English README with features, tech stack and live demo link](https://github.com/denizsev/toDoAppMastering/commit/ed71b111bf788977ee54ab84d4103c25f42b6b6e) · 2026-11-21
-- **[Etch-a-Sketch](https://github.com/denizsev/Etch-a-Sketch)**: [finished the project](https://github.com/denizsev/Etch-a-Sketch/commit/a28ccf956f1709cbda0938bc70e6da3b1476f391) · 2026-06-11
-- **[rock_paper_scissors](https://github.com/denizsev/rock_paper_scissors)**: [add a new 3 buttons](https://github.com/denizsev/rock_paper_scissors/commit/900484ed4c4085dff1386d8386e670c40e371915) · 2026-05-28
-- **[basic-shopping-card](https://github.com/denizsev/basic-shopping-card)**: [Finish my shopping cart functionally and improve cart logic](https://github.com/denizsev/basic-shopping-card/commit/1ff4d630c8d5c278afb1118fc33b561e2bbec7f6) · 2026-05-25
+- **[toDoAppMastering](https://github.com/denizsev/toDoAppMastering)**: [Fill in the license holder, add favicon and og:url](https://github.com/denizsev/toDoAppMastering/commit/0ae6993374e95aa59d75733065800f45bad37646) · 2026-11-23
+- **[ovid-calculator](https://github.com/denizsev/ovid-calculator)**: [Add MIT license, favicon and link preview tags](https://github.com/denizsev/ovid-calculator/commit/adaa32885fc75c5f52a210328c64115bc316a4e6) · 2026-11-23
+- **[odin-recipes](https://github.com/denizsev/odin-recipes)**: [Expand README, add license, meta tags and favicon](https://github.com/denizsev/odin-recipes/commit/46b4f31130fe4fa240604d2f6ee30e9d4f49c2b3) · 2026-11-23
+- **[landing-page](https://github.com/denizsev/landing-page)**: [Add README, license, meta description and favicon](https://github.com/denizsev/landing-page/commit/062aeb9186f11167392944d778c5911c7cc7be33) · 2026-11-23
+- **[rock_paper_scissors](https://github.com/denizsev/rock_paper_scissors)**: [Fix the draw message, lock the board at 3 points, add labels and…](https://github.com/denizsev/rock_paper_scissors/commit/12398567b9aef0c0803041ecbe088c97186a169d) · 2026-11-23
 <!-- RECENTLY:END -->
 
 <sub>Updated daily by a GitHub Action in this repo.</sub>
