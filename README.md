@@ -35,8 +35,8 @@ Turkish (native) · German (C1) · English (B2)
 ### Recently
 
 <!-- RECENTLY:START -->
+- **[ovid-calculator](https://github.com/denizsev/ovid-calculator)**: [English roadmap; keep the Turkish research notes in notes/ and out of…](https://github.com/denizsev/ovid-calculator/commit/2f5f767f7a97fcb96664ff406e4e841d4f3b5df0) · 2026-11-23
 - **[toDoAppMastering](https://github.com/denizsev/toDoAppMastering)**: [Fill in the license holder, add favicon and og:url](https://github.com/denizsev/toDoAppMastering/commit/0ae6993374e95aa59d75733065800f45bad37646) · 2026-11-23
-- **[ovid-calculator](https://github.com/denizsev/ovid-calculator)**: [Add MIT license, favicon and link preview tags](https://github.com/denizsev/ovid-calculator/commit/adaa32885fc75c5f52a210328c64115bc316a4e6) · 2026-11-23
 - **[odin-recipes](https://github.com/denizsev/odin-recipes)**: [Expand README, add license, meta tags and favicon](https://github.com/denizsev/odin-recipes/commit/46b4f31130fe4fa240604d2f6ee30e9d4f49c2b3) · 2026-11-23
 - **[landing-page](https://github.com/denizsev/landing-page)**: [Add README, license, meta description and favicon](https://github.com/denizsev/landing-page/commit/062aeb9186f11167392944d778c5911c7cc7be33) · 2026-11-23
 - **[rock_paper_scissors](https://github.com/denizsev/rock_paper_scissors)**: [Fix the draw message, lock the board at 3 points, add labels and…](https://github.com/denizsev/rock_paper_scissors/commit/12398567b9aef0c0803041ecbe088c97186a169d) · 2026-11-23
